@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Role,Salary,PerformanceScore,HireDate
+E001,Alice Johnson,Engineering,Software Engineer,95000,4.5,2019-03-15
+E002,Ravi Patel,Marketing,Content Strategist,72000,4.2,2020-07-01
+E003,Emily Zhang,Sales,Account Executive,68000,3.8,2021-01-20
+E004,James Smith,Engineering,DevOps Engineer,98000,4.7,2018-11-05
+E005,Sofia Martinez,HR,HR Manager,85000,4.3,2017-06-30
+E006,Daniel Kim,Finance,Financial Analyst,79000,4.0,2022-02-10
+E007,Grace Lee,Engineering,Data Scientist,102000,4.6,2020-09-25
+E008,Tom Nguyen,Support,Customer Success Rep,60000,3.9,2021-12-01
+E009,Nina Brown,Design,UX Designer,87000,4.4,2019-08-18
+E010,Leo Thompson,Product,Product Manager,99000,4.1,2018-04-12

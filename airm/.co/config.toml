@@ -1,0 +1,19 @@
+[project]
+name = "airm"
+created = "2025-11-08T14:06:48.814794"
+framework_version = "0.3.7"
+
+[cli]
+version = "1.0.0"
+command = "co create airm"
+template = "minimal"
+
+[agent]
+address = "0xf5a5fc9a8ae983e23de86851f81f5a8f2b6366acd127617b16acf11f8883e83d"
+short_address = "0xf5a5...e83d"
+email = "0xf5a5fc9a@mail.openonion.ai"
+email_active = true
+created_at = "2025-11-08T14:06:48.814912"
+algorithm = "ed25519"
+default_model = "gpt-4o-mini"
+max_iterations = 10
